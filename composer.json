@@ -3,7 +3,7 @@
     "description": "Jquery colorbox plugin",
     "type": "yii2-extension",
     "keywords": ["yii2"," extension"," colorbox"," jquery"," plugin"],
-    "license": "GPL-2.0",
+    "license": "BSD-3-Clause",
     "authors": [
         {
             "name": "godgene",
