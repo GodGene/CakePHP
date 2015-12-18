@@ -28,4 +28,4 @@ Usage
 Once the extension is installed, simply use it in your code by  :
 
 ```php
-<?= \godgene\colorbox\AutoloadExample::widget(); ?>```
+<?= \godgene\colorbox\Colorbox::widget(); ?>```
