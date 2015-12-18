@@ -1,6 +1,6 @@
 {
     "name": "godgene/yii2-colorbox",
-	"version": "1.0.0",
+    "version": "1.0.0",
     "description": "Jquery colorbox plugin for Yii2",
     "keywords": ["yii"," extension"," colorbox"," jquery"," plugin"],
     "type": "yii-extension",
@@ -8,7 +8,7 @@
     "authors": [
         {
             "name": "godgene",
-            "email": "devova@mail.ua"
+            "email": "g1@leox.mail.ua"
         }
     ],
     "require": {
