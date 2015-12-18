@@ -4,7 +4,6 @@
     "description": "Jquery colorbox plugin for Yii2",
     "keywords": ["yii"," extension"," colorbox"," jquery"," plugin"],
     "type": "yii-extension",
-    "minimum-stability": "dev",
     "license": "BSD-3-Clause",
     "authors": [
         {
@@ -15,9 +14,6 @@
     "require": {
         "yiisoft/yii2": "*"
     },
-    "require-dev": {
-            "yiisoft/yii2-gii": "*"
-    },	
     "autoload": {
         "psr-4": {
             "godgene\\colorbox\\": ""
