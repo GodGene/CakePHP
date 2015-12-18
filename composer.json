@@ -1,5 +1,6 @@
 {
     "name": "godgene/yii2-colorbox",
+	"version": "1.0.0",
     "description": "Jquery colorbox plugin",
     "type": "yii2-extension",
     "keywords": ["yii2"," extension"," colorbox"," jquery"," plugin"],
